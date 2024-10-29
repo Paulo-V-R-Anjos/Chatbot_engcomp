@@ -1,0 +1,5 @@
+# Ignore the .gradio folder
+.gradio/
+
+# Ignore everything in the docs folder
+docs/
