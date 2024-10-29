@@ -1,0 +1,6 @@
+langchain
+langchain_community
+gradio
+sentence-transformers
+faiss-cpu
+ollama
