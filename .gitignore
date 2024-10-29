@@ -2,4 +2,5 @@
 .gradio/
 
 # Ignore everything in the docs folder
-docs/
+docs/*
+!docs/.gitkeep
